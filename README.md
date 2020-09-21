@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Frontend" src="./assets/chat.gif" width="300%">
+  <img alt="Frontend" src="./assets/chat.gif" width="200%">
 </p>
 
 <br>
