@@ -14,6 +14,8 @@ Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
 [Chat com aplicação Realtime](https://musing-tereshkova-2d7aef.netlify.app/)
 
+<br>
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
