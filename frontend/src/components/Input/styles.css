@@ -1,0 +1,26 @@
+.from {
+    display: flex;
+    border-top: 1px solid #99aab5;
+  }
+  
+  .input {
+    border: none;
+    border-radius: 0;
+    padding: 5%;
+    width: 80%;
+    font-size: 15px;
+  }
+  
+  input:focus, textarea:focus, select:focus{
+    outline: none;
+  }
+  
+  .sendButton {
+    color: #fff !important;
+    text-decoration: none;
+    background: #7289da;
+    display: inline-block;
+    padding: 20px;
+    border: none;
+    width: 20%;
+  }
