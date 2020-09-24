@@ -6,7 +6,7 @@
 
 ## 💻 Projeto
 
-Este projeto foi feito com base nas video aulas do canal focado em tecnologias [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+Este projeto foi feito com base nas video aulas do canal [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 
 Um Chat com funcionamento em tempo real com ReactJS e Socket.io.
 
