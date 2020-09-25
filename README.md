@@ -12,6 +12,7 @@ Um Chat com funcionamento em tempo real com ReactJS e Socket.io.
 
 <br>
 
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
