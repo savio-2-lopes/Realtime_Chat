@@ -10,10 +10,6 @@ Este projeto foi feito com base nas video aulas do canal [JavaScript Mastery](ht
 
 Um Chat com funcionamento em tempo real com ReactJS e Socket.io.
 
-Caso deseje acessar o deploy do projeto, utilize o link abaixo:
-
-[Chat com aplicação Realtime](https://musing-tereshkova-2d7aef.netlify.app/)
-
 <br>
 
 ## :rocket: Tecnologias
@@ -24,3 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Socket.io](https://socket.io/)
 
 <br>
+
+# :bulb: Sobre o projeto 
+Caso deseje acessar o deploy do projeto, utilize o link abaixo:
+
+[Chat com aplicação Realtime](https://musing-tereshkova-2d7aef.netlify.app/)
