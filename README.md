@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-# :bulb: Sobre o projeto 
+## :bulb: Deploy 
 Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
 [Chat com aplicação Realtime](https://musing-tereshkova-2d7aef.netlify.app/)
