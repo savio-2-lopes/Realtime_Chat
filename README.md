@@ -2,7 +2,26 @@
   <img alt="Frontend" src="./assets/chat.gif" width="700px">
 </p>
 
+<br> 
+
+<p align="center"> 🚀 <strong>Realtime Chat</strong> 🚧
+ </p>
+ 
 <br>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
+  
+  <a href="https://github.com/savio-2-lopes">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+  </a>
+ 
+ <a href="https://github.com/savio-2-lopes">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" />
+  </a>
+</p>
+
+<br> 
 
 # :pushpin: Índice
 
