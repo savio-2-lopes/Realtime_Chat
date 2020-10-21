@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Frontend" src="./assets/chat.gif" width="700px">
+  <img alt="Frontend" src="./assets/chat.gif" width="500px">
 </p>
 
 <br> 
@@ -23,7 +23,7 @@
 
 <br> 
 
-# :pushpin: Índice
+## :pushpin: Índice
 
 - [Projeto](#sobre)
 - [Tecnologias](#tecnologias)
@@ -35,7 +35,7 @@
 
 <a id="sobre"></a>
 
-# 💻 Projeto
+## 💻 Projeto
 
 Este projeto foi feito com base nas video aulas do canal [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 
@@ -45,7 +45,7 @@ Um Chat com funcionamento em tempo real com ReactJS e Socket.io.
 
 <a id="tecnologias"></a>
 
-# :rocket: Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <a id="deploy"></a>
 
-# :bulb: Deploy 
+## :bulb: Deploy 
 Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
 [Chat com aplicação Realtime](https://musing-tereshkova-2d7aef.netlify.app/)
@@ -65,7 +65,7 @@ Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
 <a id="licenca"></a>
 
-# :memo: Licença
+## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
 
@@ -73,7 +73,7 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 <a id="autor"></a>
 
-# 🦸 Autor
+## 🦸 Autor
         
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
